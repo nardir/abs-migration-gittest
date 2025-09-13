@@ -16,3 +16,5 @@ Console.WriteLine("Commit 3");
 
 Console.WriteLine("Feature A Commit 1");
 Console.WriteLine("Feature A Commit 2");
+
+Console.WriteLine("Feature C Commit 1");
