@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
+
 Console.WriteLine("Hello, World!");
 
 /*
@@ -16,6 +18,11 @@ Console.WriteLine("Commit 3");
 
 Console.WriteLine("Feature A Commit 1");
 Console.WriteLine("Feature A Commit 2");
+
+
+Console.WriteLine("Feature B Commit 1");
+Console.WriteLine("Feature B Commit 2");
+
 
 Console.WriteLine("Feature C Commit 1");
 Console.WriteLine("Feature C Commit 2");
